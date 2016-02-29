@@ -1,1 +1,21 @@
-["index.md"]
+[
+  "index.html",
+  "brace-yourself-microservices-are-coming.html",
+  "definition.html",
+  "you-are-developing-monoliths.html",
+  "scaling-the-monolith.html",
+  "micoservices.html",
+  "whats-a-microservice.html",
+  "scaling-a-microservice.html",
+  "haters-gonna-hate.html",
+  "pros.html",
+  "1-microservice-1-product.html",
+  "cons.html",
+  "complexity.html",
+  "enablers.html",
+  "netflix-and-chill.html",
+  "conclusion.html",
+  "be-pragmatic.html",
+  "thank-you.html",
+  "credits.html"
+]
